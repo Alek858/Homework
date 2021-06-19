@@ -1,0 +1,16 @@
+# Case Study Assignment 
+## Overview and origin  
+
+* [Blend](https://blend.com/)
+* Blend was founded in 2012 by Nima Ghamsari, Erin Collard, Eugene Marinelli, and Rosco Hill. 
+* The idea for Blend was inspired by founder Nima Ghamsari's personal journey. Nima immigrated to the United States from Iran when he was a young child. Nima's parents gave up their jobs and any seblance of financial security to take a chance at a better future in America. Once in the USA, Nima's parents had a hard time finding a home that they could afford and found the whole mortgage process to be very daunting. During the process of purchasing their first home, his parents were lucky enough to have a great mortgage banker. The banker was accomidating to their situation, and got them a home with only 5% down allowing them to start their ***American Dream***. This video captures [Nima's story](https://vimeo.com/288628928).
+* Blend has received a total of $665M in total funding over the course of nine rounds. This includes a recent [Series G funding of $300M](https://www.protocol.com/fintech/blend-mortgage-series-g-valuation) in January 2021.</p>
+## Business Activities:
+* Blend seeks to improve and drastically simplify the banking process. Blend began by focusing improving the home mortgage and home equity process, but has since expanded to offer many other banking solutions including, but not limited to auto loans, personal loans, deposit accounts and credit cards. [Blend works with 287 major banks and other lenders](https://blend.com/customers/) such as BMO Harris, Wells Fargo and US Bank as well as Federal Credit unions like Affinity and Navy Federal to provide digital infastructure. By focusing on established financial institutions, Blend is able to reach a much larger customer market and get instant credibility. Blend also works with different core banking systems, data verification providers, pricing engines, customer relationship management, and document generation providers to increase overall efficiency. 
+* Blend leverages integrations such as Ellie Mae Encompass, Black Knight Empower, MeridianLink LendingQB, Wipro NetOxygen, Byte, Accenture MortgageCadence, and Fiserv Mortgage Director. Blend works with several banking systems, data verification providers, pricing engines, customer relationship management, and document providers.</p>
+## Landscape
+* Blend falls into the Lending, Mortgage/Real Estate, and Personal Finance domains. The initial domain that Blend sought to disrupt was the Mortgage/Real Estate domain, but they have since expanded their suite to incorporate others. 
+* The trends in this domain fall in step with broader [trends in Fintech](https://djangostars.com/blog/fintech-trends/). One where Blend is a leader is in digital mortgage. Other trends are alternative lending, and digital banking. 
+* Blend has [many competitors](https://www.bankrate.com/mortgages/best-lenders/online-mortgage-lenders/) in this space, namely Rocket Mortgage by Quicken Loans, Better, Floify, Guranteed Rate and AmeriSave Mortgage Co.</p>
+## Results
+* 
